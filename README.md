@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Suyash Dwivedi, a Java Backend Developer passionate about building scalable applications and mastering DSA. I previously worked at CYBDEX LLC as a React Developer, where I built a complete authentication system from scratch.<br>Currently, I’m focused on strengthening my Spring Boot backend skills and preparing for product-based company placements.<br>I’m open to collaborating on React or Spring Boot projects and always excited to learn and build impactful tech. 🚀
+Hi, I’m Suyash Dwivedi, a Java Backend Developer passionate about building scalable applications and mastering DSA. I previously worked at CYBDEX LLC as a React Developer, where I built a complete authentication system from scratch.<br>Currently, I’m focused on strengthening my Spring Boot backend skills and preparing for product-based company placements.<br>I’m open to collaborating on React or Spring Boot projects and always excited to learn and build impactful tech. 
 
 
 ## 🌐 Socials:
